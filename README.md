@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyuk Sun Kwon</h1>
 <h3 align="center">newbie developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkxajFqMDU1Z2huOXVtanZ3MjZlbzU0azlkMTlweXZiZDdoNnZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
 
 - 🔭 I’m currently working on **coming soon...**
 
