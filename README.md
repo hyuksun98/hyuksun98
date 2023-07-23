@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyuk Sun Kwon</h1>
 <h3 align="center">newbie developer</h3>
+<img align="right" alt="Coding" width="400" src="https://pin.it/1WSAhAx">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=includekhs&label=Profile%20views&color=0e75b6&style=flat" alt="includekhs" /> </p>
 
