@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyuk Sun Kwon</h1>
 <h3 align="center">newbie developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/82/ab/4182abdc4112f761b5231a78ada81a71.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/41/82/ab/4182abdc4112f761b5231a78ada81a71.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkxajFqMDU1Z2huOXVtanZ3MjZlbzU0azlkMTlweXZiZDdoNnZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=includekhs&label=Profile%20views&color=0e75b6&style=flat" alt="includekhs" /> </p>
 
