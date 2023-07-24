@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **coming soon...**
 
-- 📝 I regularly write articles on [https://morethan-includekhs.vercel.app/](https://morethan-includekhs.vercel.app/)
+- 📝 I regularly write articles on [https://morethan-log-includekhs.vercel.app/]
 
 - 💬 Ask me about **coming soon...**
 
