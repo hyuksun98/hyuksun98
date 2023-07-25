@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **coming soon...**
   
-- 💻 I regularly write articles on [https://www.notion.so/includekhs]
+- 💻 I regularly write articles on **https://www.notion.so/includekhs**
 
-- 📝 And articles are integrated with [https://morethan-log-includekhs.vercel.app]
+- 📝 And articles are integrated with **https://morethan-log-includekhs.vercel.app**
 
 - 💬 Ask me about **coming soon...**
 
