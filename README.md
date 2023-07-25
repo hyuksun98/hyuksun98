@@ -1,10 +1,11 @@
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=includekhs&label=Profile%20views&color=0e75b6&style=flat" alt="includekhs" /> </p>
 <h1 align="center">Hi 👋, I'm Hyuk Sun Kwon</h1>
 <h3 align="center">A passionate newbie developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm56c2ZiemZyMGV0dGM2aDY0djY2YTBqZWhvdnljNHY1eGt2cmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=includekhs&label=Profile%20views&color=0e75b6&style=flat" alt="includekhs" /> </p>
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm56c2ZiemZyMGV0dGM2aDY0djY2YTBqZWhvdnljNHY1eGt2cmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
+<h3></h3>
+
 
 - 🔭 I’m currently working on **coming soon...**
 
@@ -13,8 +14,10 @@
 - 👯 I’m looking to collaborate on **5G NR, AI/ML, Docker**
 
 - 🤝 I’m looking for help with **coming soon...**
+  
+- 💻 I regularly write articles on [https://www.notion.so/includekhs]
 
-- 📝 I regularly write articles on [https://morethan-log-includekhs.vercel.app/]
+- 📝 And articles are integrated with [https://morethan-log-includekhs.vercel.app]
 
 - 💬 Ask me about **coming soon...**
 
