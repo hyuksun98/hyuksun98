@@ -1,5 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/technology-wireless-network-communication-smart-city_49537-167.jpg?w=996)
-
+![MasterHead](https://preview.redd.it/u2klg77z1kr51.jpg?width=1080&crop=smart&auto=webp&s=aa131ec42578a8aabf6f8f0f9a1759f735e9a980)
 
 <h1 align="center">Hi 👋, I'm Hyuk Sun Kwon</h1>
 <h3 align="center">A passionate newbie developer</h3>
