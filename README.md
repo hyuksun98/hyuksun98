@@ -17,8 +17,6 @@
   
 - 💻 I regularly write articles on **https://www.notion.so/includekhs**
 
-- 📝 And articles are integrated with **https://morethan-log-includekhs.vercel.app**
-
 - 💬 Ask me about **coming soon...**
 
 - 📫 How to reach me **gurtjs0116@khu.ac.kr**
