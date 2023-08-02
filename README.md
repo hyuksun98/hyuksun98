@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **coming soon...**
   
-- 💻 I regularly write articles on **https://www.notion.so/includekhs**
+- 💻 I regularly write articles on **[https://www.notion.so/includekhs](https://includekhs.notion.site/Bootstrapping-Microservices-with-Docker-Kubernetes-and-Terraform-82b34c37c6ae410aba86af7569407d84?pvs=4)**
 
 - 💬 Ask me about **coming soon...**
 
