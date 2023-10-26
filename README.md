@@ -15,11 +15,13 @@
 
 - 🤝 I’m looking for help with **coming soon...**
   
-- 💻 I regularly write articles on **[https://www.notion.so/includekhs](https://includekhs.notion.site/Bootstrapping-Microservices-with-Docker-Kubernetes-and-Terraform-82b34c37c6ae410aba86af7569407d84?pvs=4)**
+- 💻 I regularly write articles on **[Gitblog](https://includekhs.github.io)**
 
 - 💬 Ask me about **coming soon...**
 
 - 📫 How to reach me **gurtjs0116@khu.ac.kr**
+
+- 📫 How to reach me **gurtjs0116@gmail.com**
 
 - ⚡ Fun fact **The office is my favorite TV show**
 
