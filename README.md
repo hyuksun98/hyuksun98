@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=includekhs&label=Profile%20views&color=0e75b6&style=flat" alt="includekhs" /> </p>
 <h1 align="center">Hi 👋, I'm Hyuk Sun Kwon</h1>
-<h3 align="center">A passionate newbie developer</h3>
+<h3 align="center">Maximum Effort</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm56c2ZiemZyMGV0dGM2aDY0djY2YTBqZWhvdnljNHY1eGt2cmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 <h3></h3>
