@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **coming soon...**
   
-- 💻 I regularly write articles on **[Gitblog](https://includekhs.github.io)**
+- 💻 I regularly write articles on **[Gitblog](https://hyuksun98.github.io)**
 
 - 💬 Ask me about **coming soon...**
 
