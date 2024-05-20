@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **coming soon...**
 
-- 🌱 I’m currently learning **5G NR, microservice**
+- 🌱 I’m currently learning **5G NR, Kubernetes, Kubeflow**
 
 - 👯 I’m looking to collaborate on **5G NR, AI/ML, Docker**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **gurtjs0116@gmail.com**
 
-- ⚡ Fun fact **The office is my favorite TV show**
+- ⚡ Fun fact **"The office" is my favorite TV show**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
