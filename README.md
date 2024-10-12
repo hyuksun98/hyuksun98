@@ -7,17 +7,11 @@
 <h3></h3>
 
 
-- 🔭 I’m currently working on **coming soon...**
-
-- 🌱 I’m currently learning **5G NR, Kubernetes, Kubeflow**
+- 🌱 I’m currently learning **LTE/5G/6G, O-RAN, Kubernetes, Ansible, SDN, SD-RAN**
 
 - 👯 I’m looking to collaborate on **5G NR, AI/ML, Docker**
-
-- 🤝 I’m looking for help with **coming soon...**
   
-- 💻 I regularly write articles on **[Gitblog](https://hyuksun98.github.io)**
-
-- 💬 Ask me about **coming soon...**
+- 💻 I regularly write articles on **[Blog](https://morethan-hyuksun98.vercel.app/)**
 
 - 📫 How to reach me **gurtjs0116@khu.ac.kr**
 
