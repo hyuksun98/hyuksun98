@@ -8,8 +8,6 @@
 
 
 - 🌱 I’m currently learning **LTE/5G/6G, O-RAN, Kubernetes, Ansible, SDN, SD-RAN**
-
-- 👯 I’m looking to collaborate on **5G NR, AI/ML, Docker**
   
 - 💻 I regularly write articles on **[Blog](https://morethan-hyuksun98.vercel.app/)**
 
